@@ -62,22 +62,6 @@
 
 ---
 
-### 📂 Projects
-**Art Exhibition Management Platform** | *Java, SQL*  
-- Developed a Java-based application for digital art exhibitions  
-- Implemented authentication, artwork uploads, and scheduling  
-- Integrated SQL database for efficient data handling  
-
----
-
-### 📜 Certifications
-- NPTEL – Design Thinking  
-- GUVI – Data Structures Using C  
-- GUVI – Object-Oriented Programming in Java  
-- GUVI – Java Collections Framework  
-- GUVI – Java for Beginners  
-- GUVI – Servlet & JSP  
-
 ---
 
 ### 📊 GitHub Stats
